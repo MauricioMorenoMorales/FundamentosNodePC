@@ -8,6 +8,7 @@ function router(req, res) {
 	switch (req.url) {
 		case '/':
 			res.end('Hola')
+			console.log('Xd')
 			break
 		default:
 			res.write('404, esa url no existe')
