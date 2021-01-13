@@ -1,0 +1,17 @@
+{
+	"name": "herramientas",
+	"version": "1.0.0",
+	"description": "",
+	"main": "scrapping.js",
+	"scripts": {
+		"build": "gulp build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"gulp": "^4.0.2",
+		"gulp-server-livereload": "^1.9.2",
+		"puppeteer": "^5.5.0"
+	}
+}
